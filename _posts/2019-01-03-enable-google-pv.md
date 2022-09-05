@@ -1,7 +1,7 @@
 ---
 title: Enable Google Page Views22
 author: sille_bille
-date: 2021-01-03 23:32:00 KR
+date: 2019-01-03 23:32:00 KR
 categories: [Blogging, Tutorial]
 tags: [google analytics, pageviews]
 ---
