@@ -4,6 +4,11 @@ icon: fas fa-info-circle
 order: 0
 ---
 
+> 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
+{: .prompt-info }
+
+> 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
+{: .prompt-tip }
 
 ## 소개
 이름 : 김정현  
@@ -64,8 +69,28 @@ CI/CD : Jenkins
 버전관리 : Git / Klago  
 
 ## 프로젝트 이력
-<!-- ![dog](/assets/img/project/dog.jpg) -->
-[ㅁㄴㅇㄹ](https://jeonghyun051.github.io/posts/douzone/)
+[[ 더존비즈온 ] 헬스케어](https://jeonghyun051.github.io/posts/healthcare/)  
+![dog](/assets/img/project/douzone.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
+소개 : 차세대 디지털 헬스케어  
+기간 : 2021-11-22 ~ 진행중
+<br/><br/>
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+[의원근태관리](https://jeonghyun051.github.io/posts/douzone/)  
+![dog](/assets/img/project/daangn.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
+소개 : 의료진들의 근태내역, 병원일정, 휴무일 등을 관리하는 의원 근태관리 시스템  
+기간 : 2021-08-15 ~ 2021-10-15  
+인원 : 3명
+<br/><br/>
+
+[당근마켓](https://jeonghyun051.github.io/posts/deu-daangn/)  
+![dog](/assets/img/project/daangn.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
+소개 : 당근마켓 모티브로 프로젝트 진행  
+기간 : 2021-02-08 ~ 2021-04-08  
+인원 : 4명  
+<br/>
+
+[인스타그램](https://jeonghyun051.github.io/posts/deu-insta/)  
+![dog](/assets/img/project/insta.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
+소개 : 인스타그램 모티브로 프로젝트 진행  
+기간 : 2021-01-08 ~ 2021-02-08  
+인원 : 1명  
