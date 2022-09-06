@@ -2,26 +2,21 @@
 title: '[교육] JAVA-Full-Stack 전문가과정_더존비즈온'
 author: Kim Jeong Hyun
 date: 2021-04-27 10:00:00 KR ~ 2021-10-22 23:32:00 KR
-categories: [교육, 동의대]
-tags: [SpringBoot, JSP, JPA]
+categories: [교육, bit academy]
+tags: [SpringBoot, JSP, Spring, React, Node, NodeExpress, MyBatis, MySql]
 ---
 
-2021-04-27 ~ 2021-10-22
-## #1
+2021-04-27 ~ 2021-10-22 / 더존비즈온 연계형 JAVA Full-Stack전문가과정 훈련을 수료하였습니다. 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of `Ruby`, `RubyGems`, `Jekyll`, and `Bundler`. In addition, [Git](https://git-scm.com/) is also required to be installed.
+### #1 훈련목표
+비트교육센터에서 진행하는 훈련으로 자바의 전문가 과정을 목표합니다.
+  
+### #2 훈련과정
+훈련 과정은 자바 그리고 웹 이 핵심이였습니다.  
+학습한 기술들은 태그에 정의하였습니다.  
 
-### Creating a New Site
-
-There are two ways to create a new repository for this theme:
-
-- [**Using the Chirpy Starter**](#option-1-using-the-chirpy-starter) - Easy to upgrade, isolates irrelevant project files so you can focus on writing.
-- [**Forking on GitHub**](#option-2-forking-on-github) - Convenient for custom development, but difficult to upgrade. Unless you are familiar with Jekyll and are determined to tweak or contribute to this project, this approach is not recommended.
-
-#### Option 1. Using the Chirpy Starter
-
-Create a new repository from the [**Chirpy Starter**][use-starter] and name it `<GH_USERNAME>.github.io`, where `GH_USERNAME` represents your GitHub username.
-
-#### Option 2. Forking on GitHub
-
-[Fork **Chirpy**](https://github.com/cotes2020/jekyll-theme-chirpy/fork) on GitHub and rename it to `<GH_USERNAME>.github.io`. Please note that the default branch code is in development.  If you want the site to be stable, please switch to the [latest tag][latest-tag] and start writing.
+### #3 훈련후기
+국비 지원 훈련을 수료하고, 더존비즈온이라는 회사에 관심이 생겼다.   
+마침 채용연계형 훈련이 있어 좀 더 깊게 배우고 입사를 하자는 목표로 훈련을 듣게 되었다.  
+훈련은 깊이가 있었다. 하나를 배울 때에도 깊이 있게 배우다보니 내용이 어려울 때가 있었다.  
+국비를 통해 조금 알고간 상태여서 도움이 많이 됐던거 같다.  

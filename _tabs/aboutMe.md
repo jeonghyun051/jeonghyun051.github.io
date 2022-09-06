@@ -16,6 +16,9 @@ order: 0
 Email : rlawjdgus051@naver.com  
 GitHub : [Github](https://github.com/jeonghyun051)  
 Blog : [Blog](https://blog.naver.com/rlawjdgus051)  
+
+저는 개발과 기록하는것을 좋아합니다.  
+새로운 기술을 배우거나 오류를 해결할 경우 블로그 작성을 하고 있습니다.  
   
 ## 회사경력
 더존비즈온 (2021 ~ 현재)
@@ -44,6 +47,10 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 - echarts, draftjs, fullcalendar
 - Styled-Component
 - UI Library (antd, bootstrap, material-ui)
+
+> ### AWS
+- EC2
+- RDS
 
 > ### DB
 - MySql / MariaDB
