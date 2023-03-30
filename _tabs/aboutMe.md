@@ -1,11 +1,14 @@
 ---
 title: About ME
 icon: fas fa-info-circle
-order: 0
+order: 1
 ---
 
+>
+
+{: .prompt-tip }
+
 > 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
-> {: .prompt-info }
 
 <!-- > 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
 {: .prompt-tip } -->
@@ -23,7 +26,7 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 ## 회사경력
 
-더존비즈온 (2021 ~ 현재)
+더존비즈온 (2021.11 ~ 현재)
 
 ## 학력
 
@@ -88,7 +91,7 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 > 이슈관리 : Github / Jira / Wiki  
 > CI/CD : Jenkins  
 > 디자인 협업 : Zeplin  
-> 버전관리 : Git / Klago
+> 버전관리 : Git / GitLab
 
 ## 프로젝트 이력
 
@@ -118,8 +121,13 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 인원 : 4명  
 <br/>
 
-[인스타그램](https://jeonghyun051.github.io/posts/deu-insta/)  
-![dog](/assets/img/project/insta.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
+[인스타그램](https://jeonghyun051.github.io/posts/deu-insta/)
+
+<!-- ![dog](/assets/img/project/insta.jpg){: width="300" height="300" style="max-width: 70%" .normal}   -->
+
+![dog](/assets/img/project/insta/login.gif){: width="200" height="200" .normal}
+![dog](/assets/img/project/insta/my-page.gif){: width="200" height="200" .normal}
+![dog](/assets/img/project/insta/profile.gif){: width="200" height="200" .normal}  
 소개 : 인스타그램 모티브로 프로젝트 진행  
 기간 : 2021-01-08 ~ 2021-02-08  
 인원 : 1명
