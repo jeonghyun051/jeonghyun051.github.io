@@ -6,6 +6,10 @@ categories: [교육, 동의대]
 tags: [React, SpringBoot]
 ---
 
+>
+
+{% if site.published %}
+
 > 자세한 프로젝트 설명은 [Github](https://github.com/jeonghyun051/daangn-web-app/tree/master/daangnapp-master/daangnapp-master)에 정리하였습니다.
 
 2021-01-08 ~ 2021-02-08 / `당근마켓`을 모티브로 웹과 앱 프로젝트를 진행해 봤습니다.
@@ -48,3 +52,5 @@ tags: [React, SpringBoot]
 - 판매자 다른 상품 보기
 - 지역 선택하여 게시물 보기
 - 검색 기능
+
+{% endif %}

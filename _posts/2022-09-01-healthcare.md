@@ -4,7 +4,12 @@ by: Kim Jeong Hyun
 date: 2022-09-01 23:32:00 KR
 categories: [회사, 더존비즈온]
 tags: [React, SpringBoot]
+published: true
 ---
+
+>
+
+{% if site.published %}
 
 2021-11-22 ~
 
@@ -13,3 +18,5 @@ tags: [React, SpringBoot]
 의원급 신규 프로젝트를 개발하였고, 고도화 진행하였습니다.  
 프론트는 React Class 형을 사용하다가 Hooks로 변경, 백엔드는 SpringBoot를 사용하였습니다.  
 MSA 구조 방식의 개발로 각각의 모듈을 독립적으로 개발-배포 하였습니다.
+
+{% endif %}

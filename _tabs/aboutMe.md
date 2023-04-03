@@ -1,7 +1,8 @@
 ---
-title: ABOUT ME
+title: ABOUTME
 icon: fas fa-info-circle
 order: 1
+published: true
 ---
 
 >
@@ -31,6 +32,8 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 ## 학력
 
 동의대학교 컴퓨터공학과 졸업 (2021)
+
+{% if site.published == true %}
 
 <!-- 영산대학교 컴퓨터공학과 2학년 후 편입 (2014 입학) -->
 
@@ -140,3 +143,5 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 > 소개 : 인스타그램 모티브로 프로젝트 진행  
 > 기간 : 2021-01-08 ~ 2021-02-08  
 > 인원 : 1명
+
+{% endif %}
