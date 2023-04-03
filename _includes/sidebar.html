@@ -2,6 +2,24 @@
   The Side Bar
 -->
 
+
+
+<script>
+
+function handleClick(){
+
+  if(sessionStorage.getItem('mode') === 'dark') {
+    $('html').attr('data-mode', 'light');
+      sessionStorage.setItem('mode', 'light');
+  } else {
+      $('html').attr('data-mode', 'dark');
+      sessionStorage.setItem('mode', 'dark');
+  }
+}
+
+</script>
+
+
 <div id="sidebar" class="d-flex flex-column align-items-end">
   <div class="profile-wrapper text-center">
     <div id="avatar">
@@ -54,7 +72,7 @@
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
 
     {% unless site.theme_mode %}
-      <button class="mode-toggle btn" aria-label="Switch Mode">
+      <button class="mode-toggle btn" aria-label="Switch Mode" onclick="handleClick()">
         <i class="fas fa-adjust"></i>
       </button>
 

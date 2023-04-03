@@ -1,5 +1,5 @@
 ---
-title: About ME
+title: ABOUT ME
 icon: fas fa-info-circle
 order: 1
 ---
@@ -30,8 +30,9 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 ## 학력
 
-동의대학교 컴퓨터공학과 졸업 (2016 ~ 2021)  
-영산대학교 컴퓨터공학과 2학년 후 편입 (2014 입학)
+동의대학교 컴퓨터공학과 졸업 (2021)
+
+<!-- 영산대학교 컴퓨터공학과 2학년 후 편입 (2014 입학) -->
 
 ## 사용 기술
 
@@ -59,6 +60,7 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 - Styled-Component
 - UI Library (antd, bootstrap, material-ui)
 - Typescript
+- Jest
 
 > ### AWS
 
@@ -93,41 +95,48 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 > 디자인 협업 : Zeplin  
 > 버전관리 : Git / GitLab
 
-## 프로젝트 이력
+## 프로젝트 이력 `[회사명] 미기재 프로젝트는 교육, 토이 프로젝트 입니다.`
 
-[[ 채팅 프로그램 ] 카카오톡](https://jeonghyun051.github.io/posts/healthcare/)  
-![dog](/assets/img/project/douzone.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
-소개 : 차세대 디지털 헬스케어  
-기간 : 2021-11-22 ~ 진행중
-<br/><br/>
+[[ 더존비즈온 ] 헬스케어](/posts/healthcare/)
 
-[[ 더존비즈온 ] 헬스케어](https://jeonghyun051.github.io/posts/healthcare/)  
-![dog](/assets/img/project/douzone.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
-소개 : 차세대 디지털 헬스케어  
-기간 : 2021-11-22 ~ 진행중
-<br/><br/>
+> ![img](/assets/img/project/douzone.jpg){: width="200" .normal}  
+> 소개 : 차세대 디지털 헬스케어  
+> 기간 : 2021-11-22 ~ 진행중
 
-[의원근태관리](https://jeonghyun051.github.io/posts/douzone/)  
-![dog](/assets/img/project/daangn.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
-소개 : 의료진들의 근태내역, 병원일정, 휴무일 등을 관리하는 의원 근태관리 시스템  
-기간 : 2021-08-15 ~ 2021-10-15  
-인원 : 3명
-<br/><br/>
-
-[당근마켓](https://jeonghyun051.github.io/posts/deu-daangn/)  
-![dog](/assets/img/project/daangn.jpg){: width="200" height="200" style="max-width: 70%" .normal}  
-소개 : 당근마켓 모티브로 프로젝트 진행  
-기간 : 2021-02-08 ~ 2021-04-08  
-인원 : 4명  
 <br/>
 
-[인스타그램](https://jeonghyun051.github.io/posts/deu-insta/)
+[채팅 프로그램](/posts/chat/)
 
-<!-- ![dog](/assets/img/project/insta.jpg){: width="300" height="300" style="max-width: 70%" .normal}   -->
+> ![img](/assets/img/project/chat/chatlogin.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/chat.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/user.png){: width="200" .normal}  
+> 소개 : 일반적으로 사용하는 채팅 앱과 유사한 채팅프로그램 입니다.  
+> 기간 : 2023-01-01 ~ 2023~03~31
+> 인원 : 1명
 
-![dog](/assets/img/project/insta/login.gif){: width="200" height="200" .normal}
-![dog](/assets/img/project/insta/my-page.gif){: width="200" height="200" .normal}
-![dog](/assets/img/project/insta/profile.gif){: width="200" height="200" .normal}  
-소개 : 인스타그램 모티브로 프로젝트 진행  
-기간 : 2021-01-08 ~ 2021-02-08  
-인원 : 1명
+<br/>
+
+[의원근태관리](/posts/douzone/)
+
+> ![img](/assets/img/project/inandout/home.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/date.png){: width="210" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/mobile.png){: width="150" .normal}  
+> 소개 : 의료진들의 근태내역, 병원일정, 휴무일 등을 관리하는 의원 근태관리 시스템  
+> 기간 : 2021-08-15 ~ 2021-10-15  
+> 인원 : 3명
+
+<br/>
+
+[당근마켓](/posts/deu-daangn/)
+
+> ![img](/assets/img/project/daagn/login.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/post.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/chat.jpeg){: width="95" .normal}  
+> 소개 : 당근마켓 모티브로 프로젝트 진행  
+> 기간 : 2021-02-08 ~ 2021-04-08  
+> 인원 : 4명
+
+<br/>
+
+[인스타그램](/posts/deu-insta/)
+
+> ![img](/assets/img/project/insta/login.gif){: width="200" .normal}
+> ![img](/assets/img/project/insta/my-page.gif){: width="200" .normal}
+> ![img](/assets/img/project/insta/profile.gif){: width="200" .normal}  
+> 소개 : 인스타그램 모티브로 프로젝트 진행  
+> 기간 : 2021-01-08 ~ 2021-02-08  
+> 인원 : 1명

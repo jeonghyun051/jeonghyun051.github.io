@@ -23,7 +23,7 @@ timezone: Asia/Seoul
 
 title: Kim Jeong Hyun # the main title
 
-tagline: 김정현 / 남자 / 95년생 # it will display as the sub-title
+tagline: 　　김정현 / 남자 / 95년생　　　latest update 23-03-31 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -199,3 +199,5 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+year: "3"
