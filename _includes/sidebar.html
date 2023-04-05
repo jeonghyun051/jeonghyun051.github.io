@@ -72,6 +72,7 @@ function handleClick(){
   <div class="sidebar-bottom mt-auto d-flex flex-wrap justify-content-center align-items-center">
 
     {% unless site.theme_mode %}
+    {% endunless %}
       <button class="mode-toggle btn" aria-label="Switch Mode" onclick="handleClick()">
         <i class="fas fa-adjust"></i>
       </button>
@@ -79,7 +80,7 @@ function handleClick(){
       {% if site.data.contact.size > 0 %}
         <span class="icon-border"></span>
       {% endif %}
-    {% endunless %}
+
 
     {% for entry in site.data.contact %}
       {% case entry.type %}

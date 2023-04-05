@@ -9,7 +9,7 @@ published: true
 
 {: .prompt-tip }
 
-> 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
+> 좌측 하단에 Dark 모드를 설정할 수 있습니다.
 
 <!-- > 좌측 하단에 Light, Dark 모드를 설정 할 수 있습니다.
 {: .prompt-tip } -->
@@ -27,15 +27,13 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 ## 회사경력
 
-더존비즈온 (2021.11 ~ 현재)
+더존비즈온 (2021.11 ~ )
 
 ## 학력
 
 동의대학교 컴퓨터공학과 졸업 (2021)
 
 {% if site.published == true %}
-
-<!-- 영산대학교 컴퓨터공학과 2학년 후 편입 (2014 입학) -->
 
 ## 사용 기술
 
@@ -57,13 +55,15 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 > 복잡한 사이트가 아닌 경우 대부분의 사이트 프로토타입을 만들 수 있을 정도의 스킬을 가지고 있습니다.
 
 - HTML, CSS, JAVASCRIPT
-- React (Hooks), Redux, Recoil
+- React (Hooks,Class)
+- Redux, Recoil, React Query
 - React-Stomp
+- Typescript
+- Jest
+- NextJs
 - echarts, draftjs, fullcalendar
 - Styled-Component
 - UI Library (antd, bootstrap, material-ui)
-- Typescript
-- Jest
 
 > ### AWS
 
@@ -72,7 +72,7 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 > ### DB
 
-- MySql / MariaDB
+- MySql / MariaDB / Redis
 
 > ### Tool
 

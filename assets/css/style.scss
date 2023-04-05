@@ -10,6 +10,8 @@ $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
 @import "{{ site.theme }}";
 
 :host,:root {
-  --fa-font-regular: normal 400 1em/1 "Font Awesome 6 Free"
+  --fa-font-regular: normal 400 0em/1 "Font Awesome 6 Free";
+  --fa-font-solid: normal 400 0em/1 "Font Awesome 6 Free";
 }
+
 /* append your custom style below */
