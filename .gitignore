@@ -12,7 +12,6 @@
 _site
 vendor
 Gemfile.lock
-_tabs
 
 # rubygem
 *.gem

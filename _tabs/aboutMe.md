@@ -35,11 +35,11 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 {% if site.published == true %}
 
-## 사용 기술
+<!-- ## 사용 기술
 
 > ### Backend
 >
-> 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.  
+> 필요한 기술을 테스트하고 검증할 수 있을 정도의 서버 구현 스킬을 가지고 있습니다.
 > 이 외에 인증 권한 관련 스킬을 가지고 있습니다.
 
 - Java, Spring, SpringBoot, JUnit, Batch, Stomp-Websocket
@@ -92,26 +92,26 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 > ### 기타
 >
-> 커뮤니케이션 : Notion  
-> 이슈관리 : Github / Jira / Wiki  
-> CI/CD : Jenkins  
-> 디자인 협업 : Zeplin  
+> 커뮤니케이션 : Notion
+> 이슈관리 : Github / Jira / Wiki
+> CI/CD : Jenkins
+> 디자인 협업 : Zeplin
 > 버전관리 : Git / GitLab
 
 ## 프로젝트 이력 `[회사명] 미기재 프로젝트는 교육, 토이 프로젝트 입니다.`
 
 [[ 더존비즈온 ] 헬스케어](/posts/healthcare/)
 
-> ![img](/assets/img/project/douzone.jpg){: width="200" .normal}  
-> 소개 : 차세대 디지털 헬스케어  
+> ![img](/assets/img/project/douzone.jpg){: width="200" .normal}
+> 소개 : 차세대 디지털 헬스케어
 > 기간 : 2021-11-22 ~ 진행중
 
 <br/>
 
 [채팅 프로그램](/posts/chat/)
 
-> ![img](/assets/img/project/chat/chatlogin.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/chat.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/user.png){: width="200" .normal}  
-> 소개 : 일반적으로 사용하는 채팅 앱과 유사한 채팅프로그램 입니다.  
+> ![img](/assets/img/project/chat/chatlogin.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/chat.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/chat/user.png){: width="200" .normal}
+> 소개 : 일반적으로 사용하는 채팅 앱과 유사한 채팅프로그램 입니다.
 > 기간 : 2023-01-01 ~ 2023~03~31
 > 인원 : 1명
 
@@ -119,18 +119,18 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 [의원근태관리](/posts/douzone/)
 
-> ![img](/assets/img/project/inandout/home.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/date.png){: width="210" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/mobile.png){: width="150" .normal}  
-> 소개 : 의료진들의 근태내역, 병원일정, 휴무일 등을 관리하는 의원 근태관리 시스템  
-> 기간 : 2021-08-15 ~ 2021-10-15  
+> ![img](/assets/img/project/inandout/home.png){: width="200" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/date.png){: width="210" .normal} &nbsp;&nbsp; ![img](/assets/img/project/inandout/mobile.png){: width="150" .normal}
+> 소개 : 의료진들의 근태내역, 병원일정, 휴무일 등을 관리하는 의원 근태관리 시스템
+> 기간 : 2021-08-15 ~ 2021-10-15
 > 인원 : 3명
 
 <br/>
 
 [당근마켓](/posts/deu-daangn/)
 
-> ![img](/assets/img/project/daagn/login.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/post.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/chat.jpeg){: width="95" .normal}  
-> 소개 : 당근마켓 모티브로 프로젝트 진행  
-> 기간 : 2021-02-08 ~ 2021-04-08  
+> ![img](/assets/img/project/daagn/login.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/post.gif){: width="100" .normal} &nbsp;&nbsp; ![img](/assets/img/project/daagn/chat.jpeg){: width="95" .normal}
+> 소개 : 당근마켓 모티브로 프로젝트 진행
+> 기간 : 2021-02-08 ~ 2021-04-08
 > 인원 : 4명
 
 <br/>
@@ -139,9 +139,9 @@ Blog : [Blog](https://blog.naver.com/rlawjdgus051)
 
 > ![img](/assets/img/project/insta/login.gif){: width="200" .normal}
 > ![img](/assets/img/project/insta/my-page.gif){: width="200" .normal}
-> ![img](/assets/img/project/insta/profile.gif){: width="200" .normal}  
-> 소개 : 인스타그램 모티브로 프로젝트 진행  
-> 기간 : 2021-01-08 ~ 2021-02-08  
-> 인원 : 1명
+> ![img](/assets/img/project/insta/profile.gif){: width="200" .normal}
+> 소개 : 인스타그램 모티브로 프로젝트 진행
+> 기간 : 2021-01-08 ~ 2021-02-08
+> 인원 : 1명 -->
 
 {% endif %}
