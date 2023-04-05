@@ -135,7 +135,7 @@ kramdown:
 
 collections:
   tabs:
-    output: false
+    output: true
     sort_by: order
 
 defaults:
@@ -200,4 +200,4 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-published: true
+published: false

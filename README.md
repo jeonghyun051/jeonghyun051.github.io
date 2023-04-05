@@ -15,7 +15,7 @@ To fully use all the features of **Chirpy**, you need to copy the other critical
 └── index.html
 ```
 
-In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+In order to save your time, and to prevent you from missing some files when copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][cd] workflow to here, so that you can start writing in minutes.
 
 ## Prerequisites
 
@@ -35,6 +35,23 @@ $ bundle
 
 Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
 
+### Running Local Server
+
+You may want to preview the site contents before publishing, so just run it by:
+
+```console
+$ bundle exec jekyll s
+```
+
+Or run the site on Docker with the following command:
+
+```console
+$ docker run -it --rm \
+    --volume="$PWD:/srv/jekyll" \
+    -p 4000:4000 jekyll/jekyll \
+    jekyll serve
+```
+
 ## License
 
 This work is published under [MIT][mit] License.
@@ -42,5 +59,5 @@ This work is published under [MIT][mit] License.
 [gem]: https://rubygems.org/gems/jekyll-theme-chirpy
 [chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
 [use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[cd]: https://en.wikipedia.org/wiki/Continuous_deployment
 [mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
