@@ -200,4 +200,4 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-published: false
+published: true
